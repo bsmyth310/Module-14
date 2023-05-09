@@ -24,6 +24,7 @@ To install this program, clone GitHub SSH below, use your terminal and enter "no
 
 ## License
 Project is license under MIT
+
 https://github.com/bsmyth310/Module-14-AI-Bytes
 
 ## Usage
